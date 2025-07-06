@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy David Muñoz
 
 🧪QA Tester Jr | QA Manual | QA Engineer Jr
-🛠️ QA Tester Jr con conocimientos en pruebas manuales funcionales, móviles y de API. Experiencia en diseño y ejecución de casos de prueba, gestión de defectos en JIRA y pruebas con Postman y Android Studio. Formación en TripleTen con proyectos prácticos que demuestran habilidades en aseguramiento de calidad web y móvil 
+🛠️ QA Tester Jr con conocimientos en pruebas manuales funcionales, móviles y de API. Experiencia en diseño y ejecución de casos de prueba, gestión de defectos en JIRA y pruebas con Postman y Android Studio. Formación en TripleTen con proyectos prácticos que demuestran habilidades en aseguramiento de calidad web y móvil.
+
 🎯 Este es mi portafolio profesional, donde muestro proyectos desarrollados en mi camino como ingeniero de calidad.
 
 ---
