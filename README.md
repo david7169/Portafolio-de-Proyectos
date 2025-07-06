@@ -19,4 +19,4 @@ Aquí puedes explorar los proyectos que he desarrollado como QA Tester Jr. Cada 
 | Proyecto | Descripción |
 |----------|-------------|
 | [📱 Testing de Aplicación Móvil de Tareas](https://github.com/david7169/testing-app-tareas/blob/main/README_testing_app_tareas%20(1).md) | Pruebas funcionales y de regresión sobre una app de tareas Android. Incluye ejecución en Android Studio, reporte de errores en JIRA y documentación de casos de prueba. |
-| [🔌 Testing de API para Plataforma de Reservas](https://github.com/tu-usuario/testing-api-reservas) | Pruebas REST con Postman sobre endpoints GET, POST, PUT y DELETE. Incluye reporte de errores críticos, validación de Swagger y mejoras en cobertura de pruebas. |
+| [🔌 Testing de API para Plataforma de Reservas](https://github.com/david7169/Testing-de-API-para-Plataforma-de-Reservas) | Pruebas REST con Postman sobre endpoints GET, POST, PUT y DELETE. Incluye reporte de errores críticos, validación de Swagger y mejoras en cobertura de pruebas. |
