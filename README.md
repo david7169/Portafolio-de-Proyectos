@@ -27,14 +27,13 @@ Bienvenido/a a mi portafolio como **QA Engineer**. Aquí encontrarás una colecc
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| 🛠️ [Automatizacion - VB BANK - Pruebas Automatizadas BDD](LINK_A_TU_REPO) | Pruebas E2E automatizadas con **Python y Behave (BDD)** aplicando el patrón **Page Object Model (POM)**. Incluye ejecución modular de pasos, filtrado por tags y aserciones detalladas. |
-| 💻 [UrbanRoutes - Pruebas Automatizadas con Selenium](LINK_A_TU_REPO) | Proyecto de pruebas automatizadas de extremo a extremo para la aplicación web UrbanRoutes (reserva y gestión de viajes). |
-| 📱 [Testing de Aplicación Móvil](LINK_A_TU_REPO) | Pruebas funcionales y de regresión sobre una app de tareas Android. Incluye ejecución en Android Studio, reporte de errores en JIRA y documentación. |
-| 🧪 [Testing de APIS](LINK_A_TU_REPO) | Pruebas REST con Postman sobre endpoints GET, POST, PUT y DELETE. Incluye reporte de errores críticos, validación de Swagger y mejora en cobertura. |
-| 📄 [Diseños de casos de prueba](LINK_A_TU_REPO) | Diseño y ejecución de casos de prueba funcionales y de regresión, pruebas móviles y seguimiento de errores en JIRA. |
-| 📲 [Testing App móvil de pedidos de comida](LINK_A_TU_REPO) | Validación funcional y visual de una app de pedidos de comida con Android Studio, Figma y Google Sheets. |
-| 🚀 [API Test Project: Creación de Kit para Usuario](LINK_A_TU_REPO) | Verificación del comportamiento del endpoint de creación de kits personales (pruebas positivas y negativas). |
-
+| 🛠️ [Automatizacion - VB BANK - Pruebas Automatizadas BDD](LINK_A_TU_REPO) | Pruebas automatizadas con **Python y Behave (BDD)** aplicando el patrón **Page Object Model (POM)**. Incluye ejecución modular de pasos, filtrado por tags y aserciones detalladas. |
+| [📱 Testing de Aplicación Móvil](https://github.com/david7169/testing-app-tareas/blob/main/README_testing_app_tareas%20(1).md) | Pruebas funcionales y de regresión sobre app de tareas Android. Incluye ejecución en Android Studio, reporte de errores en JIRA y documentación de casos de prueba. |
+| [🧪 Testing de APIS](https://github.com/david7169/Testing-de-API-para-Plataforma-de-Reservas) | Pruebas REST con Postman sobre endpoints GET, POST, PUT y DELETE. Incluye reporte de errores críticos, validación de Swagger y mejoras en cobertura de pruebas. |
+| [📝 Diseños de casos de prueba](https://github.com/david7169/Dise-os-CasosdePrueba) |Diseño y ejecución de casos de prueba funcionales y de regresión, pruebas en dispositivos móviles a través de Android Studio y documentación y seguimiento de errores mediante JIRA.
+| [📲 Testing App movil de pedidos de comida](https://github.com/david7169/Testing-AppMovil-Pedidos) |Validación funcional y visual de una app de pedidos de comida. Uso de Android Studio, diseño en Figma y listas de comprobación en Google Sheets. Reporte de errores gestionado en JIRA. |
+| [🚀 API Test Project: Creación de Kit para Usuario](https://github.com/david7169/qa-project-Urban-Grocers-app-es) |El objetivo principal es verificar el comportamiento del endpoint de creación de kits personales para distintos valores del campo name en el cuerpo de la solicitud. Se incluyen pruebas tanto positivas como negativas. |
+| [🚖 UrbanRoutes - Pruebas Automatizadas con Selenium](https://github.com/david7169/qa-project-Urban-Routes-es/tree/main) |Este proyecto implementa pruebas automatizadas de extremo a extremo para la aplicación web UrbanRoutes, una plataforma para reservar y gestionar viajes. |
 ---
 ---
 
