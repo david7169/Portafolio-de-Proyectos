@@ -65,7 +65,7 @@ Welcome to my **QA Engineer** portfolio. Here you will find a collection of proj
 
 | Project | Description |
 | :--- | :--- |
-| 🛠️ [Automation - VB BANK - BDD Web Test Automation](LINK_A_TU_REPO) | E2E automated test suite built with **Python and Behave (BDD)** implementing the **Page Object Model (POM)** design pattern. Features modular step architecture, tag filtering, and detailed execution assertions. |
+| 🛠️ [Automation - VB BANK - BDD Web Test Automation](LINK_A_TU_REPO) | automated test suite built with **Python and Behave (BDD)** implementing the **Page Object Model (POM)** design pattern. Features modular step architecture, tag filtering, and detailed execution assertions. |
 | 💻 [UrbanRoutes - Selenium Automation Tests](LINK_A_TU_REPO) | End-to-end automated testing project for the UrbanRoutes web application (trip booking and management platform). |
 | 📱 [Mobile App Testing](LINK_A_TU_REPO) | Functional and regression testing on an Android task manager app, executed in Android Studio with Jira bug reporting. |
 | 🧪 [API Testing](LINK_A_TU_REPO) | REST API testing with Postman covering GET, POST, PUT, and DELETE endpoints, Swagger validation, and critical defect reporting. |
