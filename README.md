@@ -27,7 +27,7 @@ Bienvenido/a a mi portafolio como **QA Engineer**. Aquí encontrarás una colecc
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| 🛠️ [Automatizacion - VB BANK - Pruebas Automatizadas BDD](LINK_A_TU_REPO) | Pruebas automatizadas con **Python y Behave (BDD)** aplicando el patrón **Page Object Model (POM)**. Incluye ejecución modular de pasos, filtrado por tags y aserciones detalladas. |
+| 🛠️ [Automatizacion - VB BANK - Pruebas Automatizadas BDD](https://github.com/david7169/VB-Bank-Automation) | Pruebas automatizadas con **Python y Behave (BDD)** aplicando el patrón **Page Object Model (POM)**. Incluye ejecución modular de pasos, filtrado por tags y aserciones detalladas. |
 | [📱 Testing de Aplicación Móvil](https://github.com/david7169/testing-app-tareas/blob/main/README_testing_app_tareas%20(1).md) | Pruebas funcionales y de regresión sobre app de pedidos en Android. Incluye ejecución en Android Studio, reporte de errores en JIRA y documentación de casos de prueba. |
 | [🧪 Testing de APIS](https://github.com/david7169/Testing-de-API-para-Plataforma-de-Reservas) | Pruebas REST con Postman sobre endpoints GET, POST, PUT y DELETE. Incluye reporte de errores críticos, validación de Swagger y mejoras en cobertura de pruebas. |
 | [📝 Diseños de casos de prueba](https://github.com/david7169/Dise-os-CasosdePrueba) |Diseño y ejecución de casos de prueba funcionales y de regresión, pruebas en dispositivos móviles a través de Android Studio y documentación y seguimiento de errores mediante JIRA.
@@ -65,10 +65,10 @@ Welcome to my **QA Engineer** portfolio. Here you will find a collection of proj
 
 | Project | Description |
 | :--- | :--- |
-| 🛠️ [Automation - VB BANK - BDD Web Test Automation](LINK_A_TU_REPO) | automated test suite built with **Python and Behave (BDD)** implementing the **Page Object Model (POM)** design pattern. Features modular step architecture, tag filtering, and detailed execution assertions. |
-| 💻 [UrbanRoutes - Selenium Automation Tests](LINK_A_TU_REPO) | End-to-end automated testing project for the UrbanRoutes web application (trip booking and management platform). |
-| 📱 [Mobile App Testing](LINK_A_TU_REPO) | Functional and regression testing on an Android task manager app, executed in Android Studio with Jira bug reporting. |
-| 🧪 [API Testing](LINK_A_TU_REPO) | REST API testing with Postman covering GET, POST, PUT, and DELETE endpoints, Swagger validation, and critical defect reporting. |
-| 📄 [Test Case Design](LINK_A_TU_REPO) | Design and execution of functional/regression test cases, mobile device testing, and defect tracking via Jira. |
-| 📲 [Food Delivery Mobile App Testing](LINK_A_TU_REPO) | Functional and visual validation of a food delivery app using Android Studio, Figma, and Google Sheets checklist tracking. |
-| 🚀 [API Test Project: User Kit Creation](LINK_A_TU_REPO) | API endpoint validation for personal kit creation, covering both positive and negative payload scenarios. |
+| 🛠️ [Automation - VB BANK - BDD Web Test Automation](https://github.com/david7169/VB-Bank-Automation) | automated test suite built with **Python and Behave (BDD)** implementing the **Page Object Model (POM)** design pattern. Features modular step architecture, tag filtering, and detailed execution assertions. |
+| 💻 [UrbanRoutes - Selenium Automation Tests](https://github.com/david7169/qa-project-Urban-Routes-es/tree/main) | End-to-end automated testing project for the UrbanRoutes web application (trip booking and management platform). |
+| 📱 [Mobile App Testing](https://github.com/david7169/testing-app-tareas/blob/main/README_testing_app_tareas%20(1).md) | Functional and regression testing on an Android task manager app, executed in Android Studio with Jira bug reporting. |
+| 🧪 [API Testing](https://github.com/david7169/Testing-de-API-para-Plataforma-de-Reservas) | REST API testing with Postman covering GET, POST, PUT, and DELETE endpoints, Swagger validation, and critical defect reporting. |
+| 📄 [Test Case Design](https://github.com/david7169/Dise-os-CasosdePrueba) | Design and execution of functional/regression test cases, mobile device testing, and defect tracking via Jira. |
+| 📲 [Food Delivery Mobile App Testing](https://github.com/david7169/Testing-AppMovil-Pedidos) | Functional and visual validation of a food delivery app using Android Studio, Figma, and Google Sheets checklist tracking. |
+| 🚀 [API Test Project: User Kit Creation](https://github.com/david7169/qa-project-Urban-Grocers-app-es) | API endpoint validation for personal kit creation, covering both positive and negative payload scenarios. |
